@@ -1,0 +1,3 @@
+Jayrock is a modest and an open source (LGPL) implementation of JSON and JSON-RPC for the Microsoft .NET Framework, including ASP.NET. In a few words, Jayrock allows clients, typically JavaScript in web pages, to be able to call into server-side methods using JSON as the wire format and JSON-RPC as the procedure invocation protocol. The methods can be called synchronously or asynchronously.
+
+Visit [Jayrock Home Page](https://atifaziz.github.io/projects/jayrock/) for more.
